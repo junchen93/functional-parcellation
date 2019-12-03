@@ -1,4 +1,4 @@
-This repo is code for functional parcellation, which is under construction.
+This repo is code for functional parcellation. Under construction.
 
 ### work flow
 1. pre-processing of fMRI time series
